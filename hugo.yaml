@@ -1,0 +1,25 @@
+baseURL: https://example.org/
+title: Guardians UFCG
+languageCode: pt-BR
+theme: PaperMod
+
+params:
+  label:
+    icon: logo.svg
+
+menu:
+  main:
+    - identifier: home
+      name: Sobre nós
+      url: /
+      weight: 10
+    
+    - identifier: projetos
+      name: Projetos
+      url: /projetos
+      weight: 20
+    
+    - identifier: membros
+      name: Membros
+      url: /membros
+      weight: 30

@@ -1,4 +1,4 @@
-baseURL: https://example.org/
+baseURL: https://guardians-dsc.github.io/
 title: Guardians UFCG
 languageCode: pt-BR
 theme: PaperMod
@@ -6,6 +6,27 @@ theme: PaperMod
 params:
   label:
     icon: logo.svg
+
+  profileMode:
+    enabled: true
+    title: "Guardians UFCG"
+    subtitle: 
+      Somos uma organização estudantil ligada ao curso de Ciência da Computação
+      da UFCG, voltada ao aprendizado e desenvolvimento em DevOps
+    imageUrl: /logo.svg
+    imageTitle: Guardians Logo
+  
+  socialIcons:
+    - name: github
+      url: "https://github.com/Guardians-DSC"
+    - name: linkedin
+      url: "https://www.linkedin.com/company/guardians-ufcg/"
+    - name: instagram
+      url: "https://www.instagram.com/guardiansufcg/"
+    - name: facebook
+      url: "https://www.instagram.com/guardiansufcg/"
+    - name: x
+      url: "https://x.com/guardiansufcg"
 
 menu:
   main:

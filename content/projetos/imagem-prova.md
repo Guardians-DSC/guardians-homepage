@@ -2,10 +2,8 @@
 title = 'Imagem Prova'
 date = 2024-07-25T07:59:08-03:00
 draft = false
-ShowToC = true
+ShowToC = false
 +++
-
-# Sobre o projeto
 
 A **Imagem Prova** é uma versão personalizada de Linux utilizada durante as 
 provas nos laboratórios de computação (LCCs). A imagem oferece um 

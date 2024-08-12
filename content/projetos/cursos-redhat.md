@@ -1,3 +1,10 @@
++++
+title = "Cursos Red Hat Academy"
+date = 2024-08-12T14:30:00-03:00
+draft = false
+ShowToC = false
++++
+
 # 📚 **Cursos Red Hat Academy**
 
 Bem-vindo(a) à nossa página de cursos da **Red Hat Academy**! Aqui, você encontrará uma seleção dos cursos mais atuais e relevantes para quem deseja se destacar na área de TI. Prepare-se para transformar sua carreira com as habilidades mais procuradas no mercado.
